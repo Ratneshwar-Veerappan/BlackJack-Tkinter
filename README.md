@@ -22,10 +22,6 @@ A simple Blackjack game built with Python and Tkinter.
 python main.py
 ```
 
-## Screenshots
-
-(Add screenshots here later)
-
 ## Author
 
 Ratneshwar Veerappan
